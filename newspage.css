@@ -61,10 +61,6 @@ footer{
 .footer-three{
     display: flex;
 }
-.footer-two,
-.footer-three{
-    border: 1px solid black;
-}
 .sub-footer-one,
 .sub-footer-two,
 .sub-footer-three{
